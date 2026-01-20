@@ -7,7 +7,7 @@ import google.generativeai as genai
 import time
 
 # --- CONFIG & GEMINI FIX ---
-GEMINI_KEY = "AIzaSyDpC-XTBcBIaefIhqljKXUaZPb1rPLrKtw"
+GEMINI_KEY = "Key"
 genai.configure(api_key=GEMINI_KEY)
 # Using 'gemini-1.5-flash' which is the widely supported stable ID
 model = genai.GenerativeModel('gemini-1.5-flash')
