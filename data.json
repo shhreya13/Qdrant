@@ -1,0 +1,865 @@
+[
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Cardiac Arrest (Unconscious and Not Breathing)",
+    "steps": [
+      "SAY THIS: 'Listen carefully. Lay him flat on his back on the floor. Remove any pillows.'",
+      "SAY THIS: 'Place the heel of your hand on the center of his chest. Put your other hand on top of that hand.'",
+      "SAY THIS: 'Push down hard and fast. You need to go at least two inches deep. Do it to the beat of the song Stayin’ Alive.'",
+      "SAY THIS: 'Don't stop. Keep pushing until the paramedics take over. I will stay on the line with you.'",
+      "SAY THIS: 'If there is a bystander, tell them to go to the front door and wave the ambulance down.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Emergency Trauma / Cardiology"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Severe Hemorrhage (Life-Threatening Bleeding)",
+    "steps": [
+      "SAY THIS: 'Find a clean cloth or gauze. Press down as hard as you can directly on the wound.'",
+      "SAY THIS: 'Do not lift the cloth to check if it has stopped. If blood seeps through, put another cloth on top of it.'",
+      "SAY THIS: 'If it’s a limb and the bleeding won't stop, find a belt or cloth. Tie it tight two inches above the wound.'",
+      "SAY THIS: 'Tighten it until the bleeding stops completely. Note the time for me.'",
+      "SAY THIS: 'Keep him lying down and cover him with a blanket to keep him warm.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Trauma Surgery"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Active Shooter / Intruder",
+    "steps": [
+      "SAY THIS: 'If you have a safe way out, run now. Leave your belongings. Do not stop until you are far away.'",
+      "SAY THIS: 'If you cannot get out, get into a room, lock the door, and push heavy furniture against it.'",
+      "SAY THIS: 'Turn off the lights. Silence your phone completely—turn off the vibrate mode too.'",
+      "SAY THIS: 'Stay low and stay quiet. Do not open the door for anyone until you hear a police announcement.'",
+      "SAY THIS: 'When police arrive, show your hands. Keep your fingers spread and do not make sudden moves.'"
+    ],
+    "helpline": "112 / 100",
+    "healthcare_path": "Triage / Emergency Department"
+  },
+  {
+    "category": "Social",
+    "urgency": "High",
+    "text": "Sexual Assault (Immediate Post-Event)",
+    "steps": [
+      "SAY THIS: 'You are safe now. I am going to help you. Is the person who did this still nearby?'",
+      "SAY THIS: 'Listen to me closely: Do not shower, bathe, or wash your hands. Do not change your clothes.'",
+      "SAY THIS: 'Do not eat, drink, or brush your teeth until you have been seen by a doctor. This is very important.'",
+      "SAY THIS: 'We are sending help to you. Do you have a safe place to wait until they arrive?'",
+      "SAY THIS: 'Try not to touch anything in the area where this happened. Leave everything as it is.'"
+    ],
+    "helpline": "181 / 1091",
+    "healthcare_path": "One Stop Centre (OSC) / Forensic Dept"
+  },
+  {
+    "category": "Mental Health",
+    "urgency": "High",
+    "text": "Active Suicide Attempt (Overdose Suspected)",
+    "steps": [
+      "SAY THIS: 'I’m here with you. Can you tell me exactly what you took and how much?'",
+      "SAY THIS: 'Do not try to make yourself vomit. Stay exactly where you are.'",
+      "SAY THIS: 'Unlock your front door so help can get to you quickly. Then come back to the phone.'",
+      "SAY THIS: 'Keep talking to me. Tell me what you see around you right now.'",
+      "SAY THIS: 'Help is on the way. I’m going to stay on the line until they knock on your door.'"
+    ],
+    "helpline": "14416 / 1800-599-0019",
+    "healthcare_path": "Psychiatric Emergency / Toxicology"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Electric Shock (Live Wire Contact)",
+    "steps": [
+      "SAY THIS: 'Do not touch them! If you touch them, the electricity will travel into you too.'",
+      "SAY THIS: 'Can you see the power switch? If it's safe, turn off the main power immediately.'",
+      "SAY THIS: 'If you can't turn it off, use a dry wooden stick or a plastic broom to push the wire away.'",
+      "SAY THIS: 'Do not use anything metal or wet. Do not get near them until the wire is gone.'",
+      "SAY THIS: 'Once they are clear, tell me if they are breathing or if they are awake.'"
+    ],
+    "helpline": "112 / 1912",
+    "healthcare_path": "Cardiac Care / Burns Unit"
+  },
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Obstetric Emergency: Cord Prolapse",
+    "steps": [
+      "SAY THIS: 'This is an emergency. We are sending an ambulance now. Listen closely to what you need to do.'",
+      "SAY THIS: 'The mother needs to get on her knees with her chest on the floor and her bottom up in the air.'",
+      "SAY THIS: 'Do not try to push the cord back inside. If you have a clean towel, wrap it loosely around the cord.'",
+      "SAY THIS: 'Tell her NOT to push. She should take short, huffing breaths like she is blowing out a candle.'",
+      "SAY THIS: 'I’m staying on the line. Tell me the moment you see the baby’s head or if the cord changes color.'"
+    ],
+    "helpline": "112 / 102",
+    "healthcare_path": "Labor & Delivery / Emergency C-Section Unit"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Pediatric Emergency: Febrile Seizure",
+    "steps": [
+      "SAY THIS: 'I know this is scary, but the seizure will likely stop soon. Do not try to restrain the child.'",
+      "SAY THIS: 'Move any hard or sharp furniture away from them. Do not put anything in their mouth.'",
+      "SAY THIS: 'Loosen their clothing and make sure nothing is around their neck.'",
+      "SAY THIS: 'Once the shaking stops, roll them onto their side so they can breathe easily.'",
+      "SAY THIS: 'Do not give them any medicine or water until they are fully awake and alert.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Pediatric Emergency"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Industrial Hazard: Ammonia Leak",
+    "steps": [
+      "SAY THIS: 'You need to evacuate immediately. Move to higher ground. Do not stay in low areas or basements.'",
+      "SAY THIS: 'Move upwind—that means keep the wind at your back so the gas blows away from you.'",
+      "SAY THIS: 'If you can't get out, stay inside, close all windows, and turn off all fans and air conditioning.'",
+      "SAY THIS: 'Cover your nose and mouth with a wet cloth to help filter the air.'",
+      "SAY THIS: 'If the chemical touched your skin or eyes, flush it with clean water immediately for 15 minutes.'"
+    ],
+    "helpline": "101 / 112",
+    "healthcare_path": "Toxicology / Pulmonology"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Seizure (Adult / Grand Mal)",
+    "steps": [
+      "SAY THIS: 'Do not hold them down. Clear the area so they don't hit their head on anything.'",
+      "SAY THIS: 'Place something soft, like a folded jacket, under their head.'",
+      "SAY THIS: 'Do not put anything in their mouth—they will not swallow their tongue.'",
+      "SAY THIS: 'Time the seizure. Tell me exactly when it started.'",
+      "SAY THIS: 'When it stops, roll them onto their side. Stay with them until they can talk to you.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Neurology / Emergency Medicine"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Building Collapse / Trapped Victim",
+    "steps": [
+      "SAY THIS: 'Help is coming. Stay as still as possible to save your oxygen and energy.'",
+      "SAY THIS: 'Do not scream or shout unless you hear rescuers nearby. Shouting will exhaust you and fill your lungs with dust.'",
+      "SAY THIS: 'Try to tap on a pipe or a wall three times in a row. Listen for a response and then tap again.'",
+      "SAY THIS: 'If you have a cloth, cover your nose and mouth to keep the dust out.'",
+      "SAY THIS: 'If you can see a light or have a phone, use it to signal, but save the battery as much as possible.'"
+    ],
+    "helpline": "112 / 1078 (NDRF)",
+    "healthcare_path": "Trauma Surgery / Orthopedics"
+  },
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Severe Poisoning (Ingestion of Pesticide/Organophosphates)",
+    "steps": [
+      "SAY THIS: 'Do not make them vomit. This could cause more damage to their throat or lungs.'",
+      "SAY THIS: 'If the chemical is on their skin, you must wash it off immediately with soap and lots of water.'",
+      "SAY THIS: 'Remove any contaminated clothing, but wear gloves so you don’t get poisoned too.'",
+      "SAY THIS: 'Check their mouth. If they have a lot of saliva or are choking, turn them onto their side right now.'",
+      "SAY THIS: 'Find the container or the name of the chemical and have it ready for the paramedics.'"
+    ],
+    "helpline": "1800-116-117 (Poison Control) / 112",
+    "healthcare_path": "Toxicology / ICU"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Heat Stroke (Body Temperature >104°F)",
+    "steps": [
+      "SAY THIS: 'This is a medical emergency. We need to cool them down immediately. Move them into the shade or AC.'",
+      "SAY THIS: 'Strip off as much of their clothing as possible. Spray or sponge them with cool water.'",
+      "SAY THIS: 'Place ice packs or cold wet cloths under their armpits, on their neck, and in their groin area.'",
+      "SAY THIS: 'Fan them vigorously to help the water evaporate and cool the skin.'",
+      "SAY THIS: 'Do not give them anything to drink if they are confused or sleepy. Just focus on cooling them.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Internal Medicine / Critical Care"
+  },
+  {
+    "category": "Social",
+    "urgency": "High",
+    "text": "Human Trafficking (Immediate Identification at Transit)",
+    "steps": [
+      "SAY THIS: 'Do not approach the suspects. Do not let them know you are watching them.'",
+      "SAY THIS: 'Stay on the line. Describe exactly what the victims and the handlers are wearing.'",
+      "SAY THIS: 'Tell me the gate number, bus number, or the direction they are walking right now.'",
+      "SAY THIS: 'Look for a vehicle. If you see one, give me the color, make, and the license plate number.'",
+      "SAY THIS: 'Wait for the authorities at a safe distance. Do not try to stop them yourself.'"
+    ],
+    "helpline": "112 / 1098 (Childline)",
+    "healthcare_path": "Anti-Trafficking Unit / Protection Home"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Active Fire (Occupants Trapped)",
+    "steps": [
+      "SAY THIS: 'If there is smoke, get as low to the floor as possible. Crawl toward the exit.'",
+      "SAY THIS: 'Before opening any door, touch it with the back of your hand. If it is hot, do not open it.'",
+      "SAY THIS: 'If you are trapped, close the door and stuff wet cloths or tape in the cracks to keep smoke out.'",
+      "SAY THIS: 'Go to a window and wave a bright cloth or use a light to signal the fire trucks.'",
+      "SAY THIS: 'Do not hide under beds or in closets. Rescuers need to be able to find you quickly.'"
+    ],
+    "helpline": "101 / 112",
+    "healthcare_path": "Burn Center / Trauma Center"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Severe Allergic Reaction (Anaphylaxis)",
+    "steps": [
+      "SAY THIS: 'Ask them if they have an allergy pen or an EpiPen. Help them get it out right now.'",
+      "SAY THIS: 'Remove the safety cap. Swing and firmy push the tip against their outer thigh, even through clothes.'",
+      "SAY THIS: 'Hold it in place for a slow count of ten. 1... 2... 3... (Continue to 10).'",
+      "SAY THIS: 'Have them sit up if they are struggling to breathe, or lay them flat with feet up if they feel faint.'",
+      "SAY THIS: 'Note the time the injection was given. We are sending help immediately.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Emergency Medicine / Immunology"
+  },
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Snake Bite (Suspected Envenomation)",
+    "steps": [
+      "SAY THIS: 'Listen to me: Do not let the victim walk or move at all. Keep them absolutely still.'",
+      "SAY THIS: 'Remove any rings, watches, or tight clothing from the bitten limb right now before it swells.'",
+      "SAY THIS: 'Keep the bitten area at or slightly below the level of their heart.'",
+      "SAY THIS: 'Do not cut the wound, do not try to suck out the venom, and do not use a tight bandage.'",
+      "SAY THIS: 'I have an ambulance on the way. If you saw the snake, tell me the color and size, but do not go near it.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Emergency Medicine / Anti-Snake Venom (ASV) Center"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Flash Flood / Rapid Water Ingress",
+    "steps": [
+      "SAY THIS: 'Do not try to walk or drive through the water. Even a few inches of moving water can sweep you away.'",
+      "SAY THIS: 'Get to the highest point possible—move to the roof or the top floor of a sturdy building.'",
+      "SAY THIS: 'If you are in a car and it starts to fill with water, get out and get to higher ground immediately.'",
+      "SAY THIS: 'Turn off your main electricity and gas if you can do it safely before the water reaches you.'",
+      "SAY THIS: 'Stay where you are and signal for help using a flashlight or a bright piece of clothing.'"
+    ],
+    "helpline": "1070 (State Disaster Management) / 112",
+    "healthcare_path": "Emergency Medicine / Trauma Unit"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Traumatic Amputation (Severed Limb/Digit)",
+    "steps": [
+      "SAY THIS: 'First, stop the bleeding. Press down hard on the stump with a clean cloth and do not let go.'",
+      "SAY THIS: 'Find the severed part. Rinse it very gently with clean water only—do not scrub it.'",
+      "SAY THIS: 'Wrap the part in a damp, clean cloth and put it in a sealed plastic bag.'",
+      "SAY THIS: 'Put that bag inside another bag or container with ice. Do not let the part touch the ice directly.'",
+      "SAY THIS: 'Bring the container to the hospital with the patient. Paramedics are coming now.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Plastic & Reconstructive Surgery / Orthopedics"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Radiation Exposure / Dirty Bomb Suspected",
+    "steps": [
+      "SAY THIS: 'Get inside a building immediately. Move to the center of the building, away from windows.'",
+      "SAY THIS: 'Turn off all fans, air conditioners, and heaters. Close the vents.'",
+      "SAY THIS: 'Take off your outer layer of clothing and put it in a plastic bag. Seal the bag and put it away.'",
+      "SAY THIS: 'Wash your skin gently with soap and lukewarm water. Do not scratch or scrub your skin.'",
+      "SAY THIS: 'Stay tuned to the radio or your phone for official instructions. Do not go outside until told it is safe.'"
+    ],
+    "helpline": "112 / 1070 (NDRF)",
+    "healthcare_path": "Nuclear Medicine / Oncology"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Dengue Shock Syndrome (Severe Mucosal Bleeding)",
+    "steps": [
+      "SAY THIS: 'Is the patient vomiting or showing any bleeding from the nose or gums? Keep them lying flat.'",
+      "SAY THIS: 'Do not give them any Aspirin, Ibuprofen, or Brufen. These can make the bleeding much worse.'",
+      "SAY THIS: 'If they are awake, give them small sips of ORS or water, but do not force it if they feel sick.'",
+      "SAY THIS: 'Watch for cold or clammy skin. If they become very sleepy or confused, tell me immediately.'",
+      "SAY THIS: 'An ambulance is prioritized for you. Keep them warm with a light blanket.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Internal Medicine / ICU / Hematology"
+  },
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "High-Altitude Cerebral Edema (HACE)",
+    "steps": [
+      "SAY THIS: 'Listen carefully, they are in danger. You must begin moving them to a lower altitude immediately.'",
+      "SAY THIS: 'If they cannot walk straight or seem drunk, do not let them rest. You must descend at least 1,000 meters now.'",
+      "SAY THIS: 'Keep them awake and talking to you. Do not leave them alone.'",
+      "SAY THIS: 'If you have oxygen, start it at the highest flow possible while you move.'",
+      "SAY THIS: 'Do not wait for a helicopter or rescue. Starting the descent now is the only way to save their life.'"
+    ],
+    "helpline": "1070 (NDMA) / 112",
+    "healthcare_path": "High-Altitude Medicine / Neurology"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Eclampsia (Pregnancy Seizures)",
+    "steps": [
+      "SAY THIS: 'Do not try to stop her movements or put anything in her mouth. Clear the space around her.'",
+      "SAY THIS: 'Roll her onto her LEFT side immediately. This helps blood flow to the baby and keeps her airway clear.'",
+      "SAY THIS: 'Time the seizure. Tell me exactly when the shaking stops.'",
+      "SAY THIS: 'After the seizure, keep her on her left side and do not give her anything to drink.'",
+      "SAY THIS: 'Help is coming. Stay with her and keep her calm when she wakes up.'"
+    ],
+    "helpline": "102 / 112",
+    "healthcare_path": "Obstetrics / Maternal-Fetal Medicine"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Chemical Spill on Skin (Industrial)",
+    "steps": [
+      "SAY THIS: 'Do not touch the chemical with your bare hands. Get the victim to a safety shower or a hose immediately.'",
+      "SAY THIS: 'Tell them to strip off all clothing while the water is running. Do not be modest; the chemical must come off.'",
+      "SAY THIS: 'Flush the skin with water for at least 20 minutes. Do not use a hard spray; use a steady, gentle flow.'",
+      "SAY THIS: 'Do not apply any lotions or neutralizing agents. Just use plain water.'",
+      "SAY THIS: 'If their eyes were exposed, tell them to blink repeatedly while holding them under the water.'"
+    ],
+    "helpline": "112 / 101",
+    "healthcare_path": "Toxicology / Emergency Medicine"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Open Fractures (Bone Protruding)",
+    "steps": [
+      "SAY THIS: 'Do not try to push the bone back in. Leave it exactly as it is.'",
+      "SAY THIS: 'Cover the wound and the bone with a clean, dry cloth or sterile gauze.'",
+      "SAY THIS: 'If it is bleeding heavily, apply pressure to the area around the bone, but do not press on the bone itself.'",
+      "SAY THIS: 'Keep the limb completely still. Do not let them try to move it or walk on it.'",
+      "SAY THIS: 'Check their pulse below the injury. Tell me if their hand/foot feels cold or looks blue.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Orthopedic Trauma Surgery"
+  },
+  {
+    "category": "Mental Health",
+    "urgency": "High",
+    "text": "Post-Traumatic Flashback (Acute PTSD)",
+    "steps": [
+      "SAY THIS: 'Tell them clearly: You are safe. You are in [Current Location]. The year is 2026.'",
+      "SAY THIS: 'Ask them to name five things they can see in the room right now. Wait for them to answer.'",
+      "SAY THIS: 'Ask them to tell you three things they can hear. Keep your voice low and steady.'",
+      "SAY THIS: 'Instruct them to breathe in for four seconds, hold for four, and exhale for four.'",
+      "SAY THIS: 'Do not touch them without asking first. Stay a few feet away so they don't feel trapped.'"
+    ],
+    "helpline": "14416 (Tele-MANAS)",
+    "healthcare_path": "Trauma-Informed Psychiatry"
+  },
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Increased Intracranial Pressure (Head Injury)",
+    "steps": [
+      "SAY THIS: 'Keep them as still as possible. Do not let them move their neck or back.'",
+      "SAY THIS: 'If they are conscious, tell them to keep their head straight. Raise their head and shoulders up slightly using a pillow.'",
+      "SAY THIS: 'If they start to vomit, roll their whole body as one unit onto their side. Do not let their neck twist.'",
+      "SAY THIS: 'Watch their pupils. Tell me if one looks much larger than the other.'",
+      "SAY THIS: 'Tell them to stay awake. Talk to them and keep them answering your questions.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Neurosurgery / Trauma Center"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Hypothermia (Cold Exposure)",
+    "steps": [
+      "SAY THIS: 'Get them out of the cold immediately. Move them to a dry, sheltered area.'",
+      "SAY THIS: 'If their clothes are wet, you must remove them right now and wrap them in dry blankets or coats.'",
+      "SAY THIS: 'Cover their head and neck—most heat is lost from there. Use a hat or a scarf.'",
+      "SAY THIS: 'Do not use direct heat like hot water or a heating pad. Use your own body heat to warm them if needed.'",
+      "SAY THIS: 'If they are awake, give them a warm, sweet drink. Do not give them alcohol.'"
+    ],
+    "helpline": "112 / 1070",
+    "healthcare_path": "Internal Medicine / Emergency Department"
+  },
+  {
+    "category": "Social",
+    "urgency": "High",
+    "text": "Caste-Based Violence or Atrocity",
+    "steps": [
+      "SAY THIS: 'Are you in a safe place right now? If not, move to a public area or a government building immediately.'",
+      "SAY THIS: 'Do not delete any messages or recordings. We need to preserve all evidence of the threat.'",
+      "SAY THIS: 'If there are physical injuries, do not wash or clean them until a doctor has documented them.'",
+      "SAY THIS: 'Write down the names or descriptions of everyone involved and any vehicles you saw.'",
+      "SAY THIS: 'I am alerting the local police and the Special Cell for Atrocities. Stay on the line.'"
+    ],
+    "helpline": "112 / 155221",
+    "healthcare_path": "District Hospital / SC-ST Protection Cell"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Inhaled Foreign Body (Child/Toddler)",
+    "steps": [
+      "SAY THIS: 'Is the child coughing? If they are coughing strongly, let them keep coughing. Do not hit their back.'",
+      "SAY THIS: 'If they cannot breathe, cry, or make a sound, you must act now.'",
+      "SAY THIS: 'Sit down and lay the child face down over your lap. Give five sharp blows to the back.'",
+      "SAY THIS: 'If the object doesn't come out, turn them over and give five quick chest thrusts with two fingers.'",
+      "SAY THIS: 'Keep going until they cough it up or the ambulance arrives. Do not try to pull it out with your fingers.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Pediatric ENT / Emergency Medicine"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Internal Bleeding (Post-Trauma)",
+    "steps": [
+      "SAY THIS: 'Even if you can't see blood, they could be bleeding inside. Lay them flat on their back.'",
+      "SAY THIS: 'Raise their legs about 12 inches off the ground using pillows or a chair.'",
+      "SAY THIS: 'Cover them with a blanket. We need to keep their body temperature up to prevent shock.'",
+      "SAY THIS: 'Do not give them anything to eat or drink, even if they say they are very thirsty.'",
+      "SAY THIS: 'Check their pulse at the wrist. Tell me if it feels very fast or very weak.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "General Surgery / Trauma Center"
+  }, 
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Hypothermia (Severe Cold Exposure)",
+    "steps": [
+      "SAY THIS: 'We need to warm them up slowly. Move them into a dry, sheltered area immediately.'",
+      "SAY THIS: 'If their clothes are wet, you must cut them off. Do not make the person move or exert themselves.'",
+      "SAY THIS: 'Wrap them in dry blankets, focusing on their head and neck first. Use your own body heat if you have to.'",
+      "SAY THIS: 'Do not rub or massage their arms or legs. This can cause cold blood to rush to the heart and stop it.'",
+      "SAY THIS: 'Do not give them alcohol. If they are awake and can swallow, give them a warm, sweet drink.'"
+    ],
+    "helpline": "112 / 1070",
+    "healthcare_path": "Internal Medicine / Emergency Department"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Near-Drowning (Submersion)",
+    "steps": [
+      "SAY THIS: 'Get them out of the water, but keep their head and neck as still as possible.'",
+      "SAY THIS: 'Check if they are breathing. If they are not, give them five rescue breaths—mouth to mouth—right now.'",
+      "SAY THIS: 'If there is still no movement, start chest compressions. Push hard and fast in the center of the chest.'",
+      "SAY THIS: 'Do not try to drain the water out of their lungs. Focus only on the compressions.'",
+      "SAY THIS: 'Even if they wake up and seem fine, they must go to the hospital. Their lungs could fill with fluid later.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Pulmonology / Critical Care"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Severe Lightning Strike",
+    "steps": [
+      "SAY THIS: 'It is safe to touch them. They do not carry an electrical charge. Move them to a safe area away from the storm.'",
+      "SAY THIS: 'Check their breathing and pulse. Lightning often stops the heart immediately.'",
+      "SAY THIS: 'If they aren't breathing, start CPR now. I will count the rhythm with you.'",
+      "SAY THIS: 'Look for any burns, especially on the feet or where they might have been wearing metal/jewelry.'",
+      "SAY THIS: 'Stay with them and keep them lying flat. They may be confused or temporarily paralyzed.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Cardiology / Neurology"
+  },
+  {
+    "category": "Medical",
+    "urgency": "Medium",
+    "text": "Ingested Button Battery (Pediatric)",
+    "steps": [
+      "SAY THIS: 'This is a time-sensitive emergency. Do not try to make the child vomit.'",
+      "SAY THIS: 'Do not give them anything to eat or drink. This includes water or milk.'",
+      "SAY THIS: 'If the child is over 12 months old and the swallow was within the last 2 hours, give them 2 teaspoons of honey.'",
+      "SAY THIS: 'Honey can help coat the battery and slow down the chemical burn. Give a dose every 10 minutes.'",
+      "SAY THIS: 'Take them to the emergency room immediately. Do not stop for anything. This battery can burn through the esophagus in hours.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Pediatric Surgery / Gastroenterology"
+  },
+  {
+    "category": "Social",
+    "urgency": "High",
+    "text": "Elder Abandonment / Acute Neglect",
+    "steps": [
+      "SAY THIS: 'I am here to help. Is the person in any immediate physical pain or unable to move?'",
+      "SAY THIS: 'Check if they have access to water and their necessary medications. Do not give them a large meal immediately.'",
+      "SAY THIS: 'Note down the condition of the room and any visible injuries like bedsores or bruising.'",
+      "SAY THIS: 'Do not confront the person responsible if they are present. Wait for the authorities to arrive.'",
+      "SAY THIS: 'I am contacting the Senior Citizen helpline and a medical team to perform a welfare check.'"
+    ],
+    "helpline": "14567 (Elderline)",
+    "healthcare_path": "Geriatric Medicine / Social Welfare"
+  },
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Status Epilepticus (Seizure exceeding 5 minutes)",
+    "steps": [
+      "SAY THIS: 'The seizure has lasted too long. Do not try to hold them down or stop their movements.'",
+      "SAY THIS: 'Move everything away from them. Put something soft, like a folded shirt, under their head.'",
+      "SAY THIS: 'Do not put anything in their mouth. They cannot swallow their tongue.'",
+      "SAY THIS: 'Look at their face. If they are turning blue or purple, tell me immediately.'",
+      "SAY THIS: 'As soon as the shaking stops, roll them onto their side. I will stay on the line until they wake up.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Neurology / Intensive Care Unit (ICU)"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Heat Stroke (Exertional or Classic)",
+    "steps": [
+      "SAY THIS: 'This is life-threatening. We must cool them down right now. Get them into the shade or a cool room.'",
+      "SAY THIS: 'Take off as much of their clothing as possible. Spray them with cool water or use wet cloths.'",
+      "SAY THIS: 'Place ice packs or cold bottles in their armpits, on their neck, and in their groin.'",
+      "SAY THIS: 'Fan them vigorously. If they are awake and can swallow, give them small sips of water.'",
+      "SAY THIS: 'If they become confused or stop responding, tell me immediately. The ambulance is on the way.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Internal Medicine / Emergency Department"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Inhaled Poison (Carbon Monoxide/Smoke)",
+    "steps": [
+      "SAY THIS: 'Get them out into the fresh air immediately. Do not stay in the room to vent it.'",
+      "SAY THIS: 'If they are not breathing, start CPR now. I will give you the count.'",
+      "SAY THIS: 'If they are breathing, have them sit up and keep them calm. Tell them to take slow, deep breaths.'",
+      "SAY THIS: 'Do not let them smoke or light any matches. There may be a fire risk.'",
+      "SAY THIS: 'Help is coming. If they have a headache or feel dizzy, tell them to close their eyes and rest.'"
+    ],
+    "helpline": "112 / 101",
+    "healthcare_path": "Toxicology / Hyperbaric Oxygen Therapy"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Diabetic Emergency (Hypoglycemic Shock/Unconscious)",
+    "steps": [
+      "SAY THIS: 'Do not put anything—no food, no liquid—in their mouth. They could choke.'",
+      "SAY THIS: 'Lay them flat on their back and check if they are breathing. Is their skin cold or clammy?'",
+      "SAY THIS: 'If they have a medical alert bracelet, read it to me now.'",
+      "SAY THIS: 'If they start to shake or have a seizure, clear the area and protect their head.'",
+      "SAY THIS: 'I am sending an ALS ambulance. They will need an IV to wake up. Stay with them.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Endocrinology / Emergency Medicine"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Eye Injury (Chemical Splash)",
+    "steps": [
+      "SAY THIS: 'Do not let them rub their eye. They must keep it as still as possible.'",
+      "SAY THIS: 'Hold their eye open under a steady stream of lukewarm tap water right now.'",
+      "SAY THIS: 'Tilt their head so the water flows from the nose-side toward the outside of the face. Do not let the chemical wash into the other eye.'",
+      "SAY THIS: 'Keep flushing for at least 15 minutes without stopping. I will tell you when to stop.'",
+      "SAY THIS: 'Do not use any eye drops or ointments. We are sending help to check their vision.'"
+    ],
+    "helpline": "112",
+    "healthcare_path": "Ophthalmology / Eye Specialty Hospital"
+  },
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Tension Pneumothorax (Collapsed Lung)",
+    "steps": [
+      "SAY THIS: 'Listen to me, this is a breathing emergency. Sit the patient up as high as possible. Do not let them lie flat.'",
+      "SAY THIS: 'Is there a wound on the chest? If you see a hole, cover it immediately with a piece of plastic or a clean gloved hand.'",
+      "SAY THIS: 'Tape the plastic down on only THREE sides. Leave the bottom side open so air can escape but not get back in.'",
+      "SAY THIS: 'If they become even more short of breath or their lips turn blue, lift the plastic for a second to let air out, then put it back.'",
+      "SAY THIS: 'Keep talking to them. Tell them to take small, shallow breaths. Help is arriving shortly.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Thoracic Surgery / Trauma Center"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Flash Flood / Rapid Water Ingress",
+    "steps": [
+      "SAY THIS: 'Do not try to walk or drive through the water. Even a few inches of moving water can sweep you away.'",
+      "SAY THIS: 'Get to the highest point possible immediately—move to the roof or the top floor of a sturdy building.'",
+      "SAY THIS: 'If you are in a car and it starts to fill with water, get out through the window and get to higher ground right now.'",
+      "SAY THIS: 'Turn off your main electricity and gas if you can do it safely before the water reaches you.'",
+      "SAY THIS: 'Stay where you are and signal for help using a flashlight or a bright piece of clothing. Do not swim unless you have no other choice.'"
+    ],
+    "helpline": "1070 (State Disaster Management) / 112",
+    "healthcare_path": "Emergency Medicine / Trauma Unit"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Traumatic Evisceration (Abdominal Wound with Exposed Organs)",
+    "steps": [
+      "SAY THIS: 'Do not try to push the organs back inside. Leave them exactly where they are.'",
+      "SAY THIS: 'Find a clean, lint-free cloth or sterile gauze. Soak it in clean water or saline if you have it.'",
+      "SAY THIS: 'Place the wet cloth gently over the exposed area. Do not put any pressure on the organs.'",
+      "SAY THIS: 'Cover the wet cloth with a piece of plastic or another dry cloth to keep the moisture in.'",
+      "SAY THIS: 'Have them lie flat on their back with their knees bent. This takes the pressure off the stomach muscles.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "General Surgery / Trauma Center"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Chlorine Gas Leak (Industrial/Pool)",
+    "steps": [
+      "SAY THIS: 'Evacuate the area immediately. Move to higher ground because this gas stays low to the floor.'",
+      "SAY THIS: 'Move upwind—that means make sure the wind is blowing against your back, away from the leak.'",
+      "SAY THIS: 'Cover your nose and mouth with a wet cloth to help filter the air while you escape.'",
+      "SAY THIS: 'If the gas touched your skin or eyes, you must flush them with plain water for at least 15 minutes.'",
+      "SAY THIS: 'Do not go back for any belongings. Stay in the fresh air and wait for the fire department.'"
+    ],
+    "helpline": "101 / 112",
+    "healthcare_path": "Toxicology / Pulmonology"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Acute Appendicitis (Suspected Rupture)",
+    "steps": [
+      "SAY THIS: 'Do not give them any food or drink. This includes water. They will likely need surgery very soon.'",
+      "SAY THIS: 'Do not give them any pain medicine, especially Aspirin or Ibuprofen, until the doctor sees them.'",
+      "SAY THIS: 'Do not put a heating pad on their stomach; this can cause the appendix to burst faster.'",
+      "SAY THIS: 'Have them lie down and find the most comfortable position—usually on their side with knees pulled up.'",
+      "SAY THIS: 'If they start to have a high fever or their whole stomach becomes hard and painful, tell me immediately.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "General Surgery / Pediatrics"
+  },
+
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Pediatric Airway Obstruction (Inhaled Small Object)",
+    "steps": [
+      "SAY THIS: 'If they are coughing, encourage them to keep coughing. Do not hit them on the back if they can still make sound.'",
+      "SAY THIS: 'If they cannot breathe or cry, sit down and lay them face-down over your lap, with their head lower than their chest.'",
+      "SAY THIS: 'Give five firm, separate blows to the center of the back with the heel of your hand.'",
+      "SAY THIS: 'If the object doesn’t come out, turn them over and give five quick chest thrusts with two fingers.'",
+      "SAY THIS: 'Keep repeating this—five back blows and five chest thrusts—until the object comes out or they become limp.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Pediatric ENT / Emergency Medicine"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Landslide / Mudflow Entrapment",
+    "steps": [
+      "SAY THIS: 'If you are inside, get under a sturdy table or desk. Stay away from windows and doors.'",
+      "SAY THIS: 'If you are trapped in mud or debris, try to create an air pocket around your face with your hands.'",
+      "SAY THIS: 'Do not scream continuously; it wastes oxygen. Tap on a pipe or wall so rescuers can hear you.'",
+      "SAY THIS: 'If you are outside, run to the nearest high ground or a sturdy building. Do not cross the path of the flow.'",
+      "SAY THIS: 'Stay where you are until the ground stops moving. Listen for a low rumbling sound which means more is coming.'"
+    ],
+    "helpline": "1070 (NDMA) / 112",
+    "healthcare_path": "Trauma Surgery / Orthopedics"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Methanol Poisoning (Toxic Alcohol Ingestion)",
+    "steps": [
+      "SAY THIS: 'Do not try to make them vomit. This chemical is absorbed quickly and affects the brain and eyes.'",
+      "SAY THIS: 'Check their vision. Are they seeing white spots or blurred vision like a snowstorm?'",
+      "SAY THIS: 'If they are breathing fast or seem confused, lay them on their side to keep their airway open.'",
+      "SAY THIS: 'Search for the bottle or container they drank from and keep it for the paramedics.'",
+      "SAY THIS: 'They need a hospital with a dialysis machine immediately. We are dispatching a high-priority unit.'"
+    ],
+    "helpline": "1800-116-117 (Poison Control)",
+    "healthcare_path": "Nephrology / Toxicology / ICU"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Priapism (Sustained Painful Condition)",
+    "steps": [
+      "SAY THIS: 'This is a serious medical emergency that requires immediate treatment to prevent permanent damage.'",
+      "SAY THIS: 'Apply an ice pack wrapped in a cloth to the area to help reduce swelling while you wait.'",
+      "SAY THIS: 'Do not take any more medications or try to treat this at home.'",
+      "SAY THIS: 'The patient needs to go to the emergency room immediately. Can you get them there, or do you need an ambulance?'",
+      "SAY THIS: 'I am alerting the urology team at the hospital to prepare for your arrival.'"
+    ],
+    "helpline": "112",
+    "healthcare_path": "Urology / Emergency Surgery"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "High-Voltage Electrocution (Industrial)",
+    "steps": [
+      "SAY THIS: 'Do not touch the person. If they are still in contact with the power source, you will be killed too.'",
+      "SAY THIS: 'Find the main breaker or shut-off switch and turn it off now. Tell me when it is off.'",
+      "SAY THIS: 'If you cannot turn it off, stand back. Do not use a wooden stick or any object on high-voltage lines.'",
+      "SAY THIS: 'Once the power is confirmed off, check if they are breathing. Start CPR immediately if they are not.'",
+      "SAY THIS: 'Look for 'exit wounds' on their feet or where they touched the ground. Do not apply any ointments to burns.'"
+    ],
+    "helpline": "1912 / 112",
+    "healthcare_path": "Burns Unit / Cardiology / ICU"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Evisceration (Abdominal Wound with Organs Exposed)",
+    "steps": [
+      "SAY THIS: 'Do not try to push the organs back into the stomach. Leave them exactly where they are.'",
+      "SAY THIS: 'Cover the organs with a clean, wet cloth. Use bottled water or saline if you have it.'",
+      "SAY THIS: 'Wrap a piece of plastic wrap loosely over the wet cloth to keep the moisture in.'",
+      "SAY THIS: 'Have the patient lie flat on their back with their knees bent up toward their chest.'",
+      "SAY THIS: 'Tell them to stay as still as possible and not to cough or strain.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Trauma Surgery / General Surgery"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Acute Epiglottitis (Child Choking/Drooling)",
+    "steps": [
+      "SAY THIS: 'Do not put anything in the child's mouth. Do not try to look down their throat with a spoon or your finger.'",
+      "SAY THIS: 'Keep the child in whatever position is most comfortable for them to breathe. Do not force them to lie down.'",
+      "SAY THIS: 'Keep the child as calm as possible. Crying can cause their throat to close up completely.'",
+      "SAY THIS: 'Do not offer them water or food. Help is on the way with specialized breathing equipment.'",
+      "SAY THIS: 'If they stop breathing, tell me immediately. I will give you instructions for rescue breaths.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Pediatric ENT / ICU"
+  },
+  {
+    "category": "Social",
+    "urgency": "High",
+    "text": "Forced Marriage / Honor-Based Threat",
+    "steps": [
+      "SAY THIS: 'Are you in a room where you can lock the door? I am staying on the line with you.'",
+      "SAY THIS: 'Do not let anyone know you are talking to me. Use a safe word if someone walks in.'",
+      "SAY THIS: 'Do you have your passport or ID? If it is safe, keep it on your person at all times.'",
+      "SAY THIS: 'I am alerting a specialized protection officer and the local police right now.'",
+      "SAY THIS: 'If you are forced to go to an airport, hide a small metal item like a spoon in your clothing to trigger security.'"
+    ],
+    "helpline": "181 / 1091",
+    "healthcare_path": "State Protection Home / Family Court"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Hydrofluoric Acid Burn (Industrial)",
+    "steps": [
+      "SAY THIS: 'This chemical is extremely dangerous and eats through to the bone. Start rinsing with water now.'",
+      "SAY THIS: 'Keep the water running over the burn for at least 5 minutes. Remove all jewelry and clothing near the area.'",
+      "SAY THIS: 'Do you have 'Calcium Gluconate' gel? If so, apply it generously to the burn after rinsing.'",
+      "SAY THIS: 'If you don't have the gel, keep rinsing with water until the ambulance arrives.'",
+      "SAY THIS: 'This chemical can stop your heart. I am sending a specialized toxicology team to you.'"
+    ],
+    "helpline": "1800-116-117 (Poison Control)",
+    "healthcare_path": "Toxicology / Burns Unit / Cardiology"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Near-Drowning (Cold Water)",
+    "steps": [
+      "SAY THIS: 'Get them out of the water. Do not assume they are dead because they are cold and blue.'",
+      "SAY THIS: 'Check for breathing. If they are not breathing, start CPR immediately.'",
+      "SAY THIS: 'Remove their wet clothes and wrap them in dry blankets. Do not rub their skin.'",
+      "SAY THIS: 'If they have a pulse but are not awake, turn them onto their side to keep their airway clear.'",
+      "SAY THIS: 'Keep the CPR going until help arrives. Cold-water victims can often be revived after a long time.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Critical Care / Pulmonology"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Wildfire / Rapid Forest Fire",
+    "steps": [
+      "SAY THIS: 'Do not try to outrun the fire uphill. Fire travels much faster uphill than downhill.'",
+      "SAY THIS: 'If you are in a vehicle, roll up the windows, close the vents, and drive to an area with no plants or grass.'",
+      "SAY THIS: 'If you are trapped on foot, find a large body of water or an area that has already burned (the black).'",
+      "SAY THIS: 'Crouch low to the ground to avoid smoke. Cover your mouth with a wet cloth.'",
+      "SAY THIS: 'Stay in your vehicle if it becomes surrounded by fire; it is safer than being out in the open.'"
+    ],
+    "helpline": "101 / 112",
+    "healthcare_path": "Emergency Trauma / Burns Unit"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Acute Angle-Closure Glaucoma (Sudden Blindness)",
+    "steps": [
+      "SAY THIS: 'This is a medical emergency for the eye. Do not rub the eye or put any pressure on it.'",
+      "SAY THIS: 'Have the patient lie flat on their back. This helps reduce the pressure inside the eye.'",
+      "SAY THIS: 'Do not use any eye drops or ointments unless they were already prescribed for this.'",
+      "SAY THIS: 'Keep the room brightly lit. Do not stay in a dark room as it can make the pressure worse.'",
+      "SAY THIS: 'We are sending you to an eye specialist hospital immediately. Permanent blindness can happen in hours.'"
+    ],
+    "helpline": "112",
+    "healthcare_path": "Ophthalmology / Eye Specialty Hospital"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Severe Croup (Barking Cough / Pediatric)",
+    "steps": [
+      "SAY THIS: 'Take the child into the bathroom and turn on all the hot water to create a room full of steam.'",
+      "SAY THIS: 'Sit with the child for 15 minutes in the steam. If that doesn't work, take them out into the cold night air.'",
+      "SAY THIS: 'Keep the child as calm as possible. Crying makes the swelling in their throat worse.'",
+      "SAY THIS: 'If the child's skin between their ribs or at the neck pulls in when they breathe, tell me now.'",
+      "SAY THIS: 'If they turn blue or stop making noise, I will give you CPR instructions immediately.'"
+    ],
+    "helpline": "112 / 108",
+    "healthcare_path": "Pediatrics / Pulmonology"
+  },
+  {
+    "category": "Environmental",
+    "urgency": "High",
+    "text": "Major Earthway Collapse (Trench/Mine)",
+    "steps": [
+      "SAY THIS: 'Do not try to dig the person out if the ground is still moving. You will be buried too.'",
+      "SAY THIS: 'Call out to the person. If they can hear you, tell them to stay still and not to struggle.'",
+      "SAY THIS: 'If their head is clear, keep the dirt away from their face and chest so they can breathe.'",
+      "SAY THIS: 'Do not use heavy machinery to dig near them. Use your hands or small shovels very carefully.'",
+      "SAY THIS: 'Rescuers are coming with specialized shoring equipment. Stay clear of the edges of the collapse.'"
+    ],
+    "helpline": "1078 (NDRF) / 112",
+    "healthcare_path": "Trauma Surgery / Orthopedics"
+  },
+  {
+    "category": "Medical",
+    "urgency": "High",
+    "text": "Mushroom Poisoning (Ingested Wild Fungus)",
+    "steps": [
+      "SAY THIS: 'Do not try to make the person vomit. Some toxins take hours or days to show their full effect.'",
+      "SAY THIS: 'If you have a sample of the mushroom or a photo of where it was growing, save it for the hospital.'",
+      "SAY THIS: 'Note exactly when they ate it and when the first symptoms like stomach pain or vomiting started.'",
+      "SAY THIS: 'The patient needs to be monitored for liver failure, even if they start to feel better temporarily.'",
+      "SAY THIS: 'I am dispatching an ambulance to take them to a toxicology center.'"
+    ],
+    "helpline": "1800-116-117 (Poison Control)",
+    "healthcare_path": "Toxicology / Hepatology / ICU"
+  }
+]
